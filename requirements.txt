@@ -1,3 +1,2 @@
-nose
+tox
 six>=1.4
-xdis

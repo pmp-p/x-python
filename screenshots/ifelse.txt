@@ -1,1 +1,0 @@
-trepan-xpy -x -c '6 if __name__ != "__main__" else 10'
